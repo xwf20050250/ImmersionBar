@@ -1,3 +1,5 @@
+android 4.4以上沉浸式状态栏和沉浸式导航栏管理
+
 ![logo](https://github.com/gyf-dev/Screenshots/blob/master/ImmersionBar/readme_head.png)
 # ImmersionBar -- android 4.4以上沉浸式实现 
 [![version](https://img.shields.io/badge/version-3.0.0-brightgreen.svg)](https://bintray.com/geyifeng/maven/immersionbar) [![author](https://img.shields.io/badge/author-gyf--dev-orange.svg)](https://github.com/gyf-dev) [![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-HeLe%E5%B0%8F%E5%AD%90%E6%8B%BD-blue.svg)](https://www.jianshu.com/p/2a884e211a62) [![QQ群](https://img.shields.io/badge/QQ%E7%BE%A4-314360549-red.svg)]()
